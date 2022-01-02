@@ -1,0 +1,46 @@
+1. Write the Gaussian Distribution empirical formula.
+Ans: If a distribution follows a normal distribution than :
+(μ - σ ) <= x <= (μ + σ ) ~	68% Data 
+(μ - 2σ ) <= x <= (μ + 2σ ) ~	95% Data
+(μ - 3σ ) <= x <= (μ + 3σ ) ~	99.7% Data
+
+Where μ : Mean , σ : Standard Deviation
+
+
+2. What is the Z-score, and why is it important?
+The Z score is the number of standard deviations by which the value of 
+a raw score is above or below the mean value of what is being observed or measured.
+(a) Allows us to calculate the probability of a score occurring within our normal distribution
+(b) Enables us to compare two scores that are from different normal distributions.
+
+
+3. What is an outlier, exactly?
+Answer: An outlier is an observation that lies an abnormal distance from other values in a random sample from a population.
+
+
+
+4. What are our options for dealing with outliers in our dataset?
+Ans: We can use scatter plot or Box plot to visualize outliers in our dataset.
+Apart from visualization we can use IQR or Standard Deviation to find outliers.
+IQR method :Any data outside ==> [Q1-1.5IQR, Q3+1.5IQR] is considered as outliers
+Standard Deviation method ==> [Mean-3SD, Mean+3SD] 
+                                   
+We can do following to deal with outliers:
+i) Change the value of outliers
+ii) Remove Outliers
+
+5. Write the sample and population variances equations and explain Bessel Correction
+
+
+sample variance = [∑(xi−μ)2] / n-1
+sample standard deviation = sqrt ([∑(xi−μ)2] / n-1)
+
+
+Bessel Correction :This correction is made to correct for the fact that these sample statistics tend to underestimate the actual 
+parameters found in the population.
+The calculations for both the sample standard deviation and the sample variance both contain a little bias. Bessel’s correction 
+(i.e. subtracting 1 from your sample size) corrects this bias. 
+In other words, we usually get a more accurate answer if we use n-1 instead of n.
+
+
+
