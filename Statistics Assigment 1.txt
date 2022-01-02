@@ -1,0 +1,35 @@
+1. What exactly is the difference between descriptive and inferential statistics?
+Ans : 
+Descriptive statistics : Analyzing, summarizing, organizing data. It provide exact and
+accurate information. It include Central tendency (mean, median, mode) and variance. 
+
+Inferential Statistics: Here we draw a conclusion about population from sample. Here we
+use confidence interval and margine of error.
+
+
+2. I'm not sure what is the difference between a sample and a population?
+Ans : 
+Population : Entire data set for our area of intrest.
+Sample : It is subset of the population that best represents the whole data.
+
+The population is too large to collect data.
+
+
+3. What distinguishes descriptive statistics from other types of statistics?
+Ans: It provide accurate information.
+
+
+4. What is the difference between quantitative and qualitative data?
+Ans: 
+(A) Quantitative Data : Deals with numerical data. 
+i) continuous: Height, weight  ii)Discrete : 2 Cat
+(B) Qualitative Data : Descriptive data based on observation. It involves 5 senses like 
+see, feel. taste. hear, smell.
+
+5. What is the definition of a percentile
+Ans:
+Percentile: It devide entire data set into 100 parts.
+Percentile is used in statistics indicating the value below which a given percentage of observations in a group of observations fall.
+Eg: the 70th percentile is the score below which 70% of the scores in the distribution may be found.
+
+
