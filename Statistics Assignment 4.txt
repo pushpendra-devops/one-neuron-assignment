@@ -1,0 +1,20 @@
+1. What is the definition of covariance? Create the formula for it.
+Ans: Cov(X,Y) = Σ(Xi – μ1) (Yi – μ2) / N
+
+Covariance is a measure of joint variability of two variable.
+It tells us, how much two variables change together.
+
+
+2. What makes Correlations better than Covariance?
+Answer : Covariance value could be anything between - infinity to + infinity while 
+correlation gives value in range of -1 to +1.
+Clearly we can not only describe the direction but also the strength of variability.
+
+
+3. Describe the Central Limit Theorem
+Answer :The distribution of sample means approximates a normal distribution as the sample size gets larger.
+
+4. What are the advantages of Spearman Correlation over Pearson Correlation?
+Ans: Pearson correlation coefficients measure the linear relationship between the variables while 
+Spearman correlation coefficients measure only monotonic relationships, relationship in which the variables tend 
+to move in the same/opposite direction but not necessarily at a constant rate whereas the rate is constant in a linear relationship.
