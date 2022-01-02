@@ -1,0 +1,38 @@
+1. How can we figure out what the interquartile range is?
+Answer : 
+IQR = Q3-Q1
+IQR : Interquartile Range
+Q3 : Upper Quartile
+Q1 : Lower Quartile 
+
+
+2. What exactly is the value of the 5-number theory
+Ans: 5 number summary has following 5 parameters:
+i) Minimum Value in distribution
+ii) Q1 : First quartile
+iii) Q2 = Second Quartile : Median
+iv) Q3 : Thired quartile
+v) Max. Value
+
+
+3. What is the relationship between standard deviation and variance?
+Ans: Standard Deviation  = sqrt(Variance)
+
+
+
+4. What does the difference between variance and standard deviation mean?
+Variance and Standard deviation both provide dispersion of data.
+
+Standard Deviation  = sqrt(Variance)
+
+Standard deviation provide magnitude of dispertion from mean.
+
+
+
+5. When is it appropriate to refer to a skewed data distribution?
+Ans:
+When data points are clustered more toward one side of the scale than the other then data distribution is skewed.
+In skewed data mean, median and mode are not close enough.
+
+
+
